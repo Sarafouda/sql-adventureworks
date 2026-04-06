@@ -13,3 +13,7 @@ SQL queries written for the AdventureWorks database.
 
 ## Database
 Microsoft SQL Server - AdventureWorks
+
+## Tools Used
+- Microsoft SQL Server Management Studio (SSMS)
+- GitHub for version control
